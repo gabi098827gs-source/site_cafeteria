@@ -1,0 +1,86 @@
+*SELETOR DE TIPO*/
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(238, 49, 49);
+    text-align: center;
+    
+}
+
+p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333;
+    margin: 20px;
+}
+
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333;
+
+}
+
+td{
+    padding: 8px;
+}
+
+
+th:hover{
+background-color: #ff6347;
+}
+
+td:hover{
+    background-color: #ffcc80;
+    border: 1px solid #333;
+    border-collapse: collapse;
+}
+
+caption{
+
+    text-align: center;
+    font-weight: bold;
+}
+
+a{
+color: #b22222;
+font-weight:bold;
+}
+
+a:hover{
+  text-underline-offset: inherit;
+}
+
+/*CLASSES*/
+.imagem-destaque{
+float: left;
+margin-left: 10px;
+margin-right: 10px;
+border: 2px solid #ff8c00;
+border-radius: 8px;
+
+}
+
+.th-cabecalho{
+    color: white;
+    background-color: #8b0000;
+    padding: 10px;
+}
+
+
+.td-primeira{
+    background-color: #b9e6b0;
+
+}
+
+.td-segunda{
+    background-color:#eec8a6;
+}
+
+.td-terceira{
+    background-color:#dfb4bf;
+}
+
+/*ID*/
+
+#id-titulo{
+     font-family: Arial, Helvetica, sans-serif;
+    color:rgb(1, 71, 13);
+    text-align: center;}
